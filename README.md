@@ -1,2 +1,3 @@
 # abusedblackamericans
-The original website...https://abusedblackamericans.herokuapp.com
+The original website...https://abusedblackamericans.herokuapp.com  I want this website to be accessable by hand held devices. I use Ubuntu with Ruby on Rails. The app/views/layouts/application.html.erb file has to have certain coding to allow the website to be seen by hand held devices.  Today is 7/7/19. The website is a work in progress but those that do not have a computer can not view it. History is very important to me.  My gr,gr,gr,gr,grandfather fought in the Continental Army in the Battle of Trenton, New Jersey with George Washington in December 1776. I am also working on another website  https://awesomeblackamericans.herokuapp.com This is also a work in progress.  I am new at Git Hub, so I need all the help I can get so real history can be told. You can send an email to me at sojournrr1@gmail.com Thanks for your help in advance.
+
